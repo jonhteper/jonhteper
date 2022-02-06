@@ -1,6 +1,6 @@
  <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jonhteper&count_private=true&show_icons=true" />
-  <img width="49%" src="https://gh-readme-streak-stats-miror.herokuapp.com?user=jonhteper&theme=dark" />
+  [![GitHub Streak](https://gh-readme-streak-stats-miror.herokuapp.com?user=jonhteper&theme=dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </p>
 
 <!--
